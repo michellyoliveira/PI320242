@@ -2,4 +2,10 @@
 # Time 4 - Estoque de Produtos de um Supermercado de Bairro.
 # Screenshots:
 <strong>Tela inical:</strong><br>
-<img src="/Screenshots/tela_inicial.png" height="400px">
+<img src="/Screenshots/tela_inicial.png" height="322px" width="572px">
+<strong>Tela produtos:</strong><br>
+<img src="/Screenshots/tela_produtos.png" height="322px" width="572px">
+<strong>Tela fornecedores:</strong><br>
+<img src="/Screenshots/tela_fornecedores.png" height="322px" width="572px">
+<strong>Tela usuários:</strong><br>
+<img src="/Screenshots/tela_usuarios.png" height="322px" width="572px">
