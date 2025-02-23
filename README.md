@@ -9,3 +9,5 @@
 <img src="/Screenshots/tela_fornecedores.png" height="322px" width="572px">
 <br><strong>Tela usuários:</strong><br>
 <img src="/Screenshots/tela_usuarios.png" height="322px" width="572px">
+<br><strong>Tela cadastro de usuários:</strong><br>
+<img src="/Screenshots/tela_cadastrar_usuario.png" height="322px" width="572px">
