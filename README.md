@@ -13,4 +13,5 @@
 <img src="/Screenshots/tela_cadastrar_usuario.png" height="322px" width="572px">
 <br><strong>Tela cadastro dos produtos:</strong><br>
 <img src="/Screenshots/tela_cadastrar_produto.png" height="322px" width="572px">
-
+<br><strong>Tela cadastro dos fornecedores:</strong><br>
+<img src="/Screenshots/tela_cadastrar_fornecedor.png" height="322px" width="572px">
